@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//bin/network-manager=utf-8
+encoding//network_manager/AboutNetworkManagerDialog.py=utf-8
+encoding//network_manager/NetworkManagerWindow.py=utf-8
+encoding//network_manager/PreferencesNetworkManagerDialog.py=utf-8
+encoding//network_manager/__init__.py=utf-8
+encoding//network_manager_lib/AboutDialog.py=utf-8
+encoding//network_manager_lib/Builder.py=utf-8
+encoding//network_manager_lib/PreferencesDialog.py=utf-8
+encoding//network_manager_lib/Window.py=utf-8
+encoding//network_manager_lib/__init__.py=utf-8
+encoding//network_manager_lib/helpers.py=utf-8
+encoding//network_manager_lib/network_managerconfig.py=utf-8
+encoding/setup.py=utf-8

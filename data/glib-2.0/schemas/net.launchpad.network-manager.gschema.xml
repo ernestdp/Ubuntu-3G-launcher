@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="network-manager">
+  <schema id="net.launchpad.network-manager" path="/net/launchpad/network-manager/">
+    <key name="example" type="s">
+      <default>''</default>
+      <summary>Sample setting</summary>
+      <description>Longer description of this sample setting.  Talk about allowed values and what it does.</description>
+    </key>
+  </schema>
+</schemalist>

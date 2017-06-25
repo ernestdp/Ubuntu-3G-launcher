@@ -1,0 +1,9 @@
+#This is the config of groovedown.
+#Mon May 14 21:40:25 SAST 2012
+autologin=false
+loglevel=3
+dlcount=5
+dlpath=/home/ernest/GrooveDown_Downloads/
+first=true
+lang=en
+pathpattern=< Artist >< / >< Title >

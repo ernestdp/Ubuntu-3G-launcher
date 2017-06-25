@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Network Manager
+_Comment=NetworkManager application
+Categories=GNOME;Utility;
+Exec=network-manager
+Icon=network-manager
+Terminal=false
+Type=Application
